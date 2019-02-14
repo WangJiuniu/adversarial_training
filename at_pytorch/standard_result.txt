@@ -1,0 +1,115 @@
+Training...
+1250 elements in validation set
+
+Epoch 1 of 10 -- average accuracy is 0.627 (train) -- average loss is 0.658
+dev validation...
+Average accuracy on dev is 0.774
+Get the best model till now, save it.
+
+Epoch 2 of 10 -- average accuracy is 0.820 (train) -- average loss is 0.494
+dev validation...
+Average accuracy on dev is 0.853
+Get the best model till now, save it.
+
+Epoch 3 of 10 -- average accuracy is 0.908 (train) -- average loss is 0.404
+dev validation...
+Average accuracy on dev is 0.892
+Get the best model till now, save it.
+
+Epoch 4 of 10 -- average accuracy is 0.962 (train) -- average loss is 0.352
+dev validation...
+Average accuracy on dev is 0.880
+
+Epoch 5 of 10 -- average accuracy is 0.980 (train) -- average loss is 0.334
+dev validation...
+Average accuracy on dev is 0.886
+
+Epoch 6 of 10 -- average accuracy is 0.985 (train) -- average loss is 0.328
+dev validation...
+Average accuracy on dev is 0.868
+
+Epoch 7 of 10 -- average accuracy is 0.988 (train) -- average loss is 0.325
+dev validation...
+Average accuracy on dev is 0.869
+
+Epoch 8 of 10 -- average accuracy is 0.989 (train) -- average loss is 0.324
+dev validation...
+Average accuracy on dev is 0.866
+
+Epoch 9 of 10 -- average accuracy is 0.990 (train) -- average loss is 0.323
+dev validation...
+Average accuracy on dev is 0.877
+
+Epoch 10 of 10 -- average accuracy is 0.990 (train) -- average loss is 0.323
+dev validation...
+Average accuracy on dev is 0.871
+
+Train Finished!
+
+Load the best model params and test...
+test validation...
+Average accuracy on test is 0.854
+
+
+----------  lt='adv' ----------
+Training...
+1250 elements in validation set
+
+Epoch 1 of 10 -- average accuracy is 0.707 (train) -- average loss is 1.192
+dev validation...
+Average accuracy on dev is 0.818
+Get the best model, save it.
+Best dev acc till now is 0.818
+
+Epoch 2 of 10 -- average accuracy is 0.873 (train) -- average loss is 0.877
+dev validation...
+Average accuracy on dev is 0.865
+Get the best model, save it.
+Best dev acc till now is 0.865
+
+Epoch 3 of 10 -- average accuracy is 0.943 (train) -- average loss is 0.740
+dev validation...
+Average accuracy on dev is 0.889
+Get the best model, save it.
+Best dev acc till now is 0.889
+
+Epoch 4 of 10 -- average accuracy is 0.974 (train) -- average loss is 0.680
+dev validation...
+Average accuracy on dev is 0.873
+Best dev acc till now is 0.889
+
+Epoch 5 of 10 -- average accuracy is 0.983 (train) -- average loss is 0.662
+dev validation...
+Average accuracy on dev is 0.873
+Best dev acc till now is 0.889
+
+Epoch 6 of 10 -- average accuracy is 0.987 (train) -- average loss is 0.654
+dev validation...
+Average accuracy on dev is 0.870
+  0% |                                                                        |Best dev acc till now is 0.889
+
+Epoch 7 of 10 -- average accuracy is 0.989 (train) -- average loss is 0.650
+dev validation...
+Average accuracy on dev is 0.869
+Best dev acc till now is 0.889
+
+Epoch 8 of 10 -- average accuracy is 0.990 (train) -- average loss is 0.647
+dev validation...
+Average accuracy on dev is 0.863
+Best dev acc till now is 0.889
+
+Epoch 9 of 10 -- average accuracy is 0.990 (train) -- average loss is 0.646
+dev validation...
+Average accuracy on dev is 0.868
+Best dev acc till now is 0.889
+
+Epoch 10 of 10 -- average accuracy is 0.991 (train) -- average loss is 0.645
+dev validation...
+Average accuracy on dev is 0.870
+Best dev acc till now is 0.889
+
+Train Finished!
+
+Load the best model params and test...
+test validation...
+Average accuracy on test is 0.871
