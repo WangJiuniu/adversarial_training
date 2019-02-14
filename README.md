@@ -12,13 +12,13 @@ This repository has been tested under python 3.6 and Pytorch 0.4.1 with GPU.
 
 ## Usage
 1. Download [preprocessed IMDB dataset](https://drive.google.com/open?id=1Ro1uAayY6CzHXiaYqwohzNP5M3qGeGrQ) for this repository (you can also find the URL in imdb/google_drive.txt). And then uncompressing these files into directory *imdb*. Of course, you can try to generate these files under the guidance of [Adversarial Training Methods](https://github.com/enry12/adversarial_training_methods).
-2. Run the main function in at_pytorch/run.py:
+2. Run the main function in *at_pytorch/run.py*:
 ```shell
 $ cd ./at_pytorch
 $ python3 run.py
 ```
 ## Results
-The running result can be seen in file at_pytorch/standard_result.txt, and brief description is as following:
+The running result can be seen in file *at_pytorch/standard_result.txt*, and brief description is as following:
 
 Method | Seq. Length | Epochs | Accuracy
 :------: | :-----------: | :------: | :--------:
