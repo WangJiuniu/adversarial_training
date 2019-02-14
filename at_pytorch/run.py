@@ -21,8 +21,8 @@ def main(data, n_epochs, n_ex, ex_len, lt, pm):
     atModel.train(data, batch_shape=(n_ex, ex_len), epochs=n_epochs, loss_type=lt, p_mult=pm)
     atModel.test(data, batch_shape=(n_ex, ex_len))
 
-# print("----------  lt='none' ----------")
-# main(data='../imdb/', n_epochs=10, n_ex=128, ex_len=400, lt='none', pm=0.02)
+print("----------  lt='none' ----------")
+main(data='../imdb/', n_epochs=10, n_ex=128, ex_len=400, lt='none', pm=0.02)
 # main(data='../imdb/', n_epochs=3, n_ex=128, ex_len=40, lt='none', pm=0.02)
 
 print("----------  lt='adv' ----------")
