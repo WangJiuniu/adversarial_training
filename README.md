@@ -1,5 +1,5 @@
 # Adversarial Training
-Adversarial training methods for text classification (sentiment analysis on IMDB dataset).
+Implementation of Adversarial Training Methods for Semi-Supervised Text Classification (sentiment analysis on IMDB dataset, only adversarial training done).
 
 ## Based on
 1. Paper [Adversarial training methods for semi-supervised text classification, ICLR 2017, Miyato T., Dai A., Goodfellow I.
