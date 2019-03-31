@@ -25,4 +25,4 @@ Method | Seq. Length | Epochs | Accuracy
 baseline | 400 | 10 | 0.854 
 adversarial | 400 | 10 | 0.871  
 
-We have not get the results reported by the original paper, but our result shows the effectiveness of adversarial training.
+We have not got the results reported by the original paper, but our result shows the effectiveness of adversarial training.
